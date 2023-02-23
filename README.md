@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<table>
+  <caption>Mis conocimientos</caption>
+  <tr>
+    <th>Encabezado 1</th>
+    <th>Encabezado 2</th>
+    <th>Encabezado 3</th>
+  </tr>
+  <tr>
+    <td>Ceroooo1</td>
+    <td>Ceroooo</td>
+    <td>Ceroooo</td>
+  </tr>
+  <tr>
+    <td>Ceroooo</td>
+    <td>Ceroooo</td>
+    <td>Ceroooo</td>
+  </tr>
+</table>

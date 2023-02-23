@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<table>
+<table border=3>
   <caption><b>My fields<b></caption>
   <tr>
     <th>C++</th>

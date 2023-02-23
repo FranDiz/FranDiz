@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <table>
-  <caption>My fields</caption>
+  <caption><b>My fields<b></caption>
+   <br>
   <tr>
     <th>C++</th>
     <th>Java</th>

@@ -15,20 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <table>
-  <caption>Mis conocimientos</caption>
+  <caption>My fields</caption>
   <tr>
-    <th>Encabezado 1</th>
-    <th>Encabezado 2</th>
-    <th>Encabezado 3</th>
+    <th>C++</th>
+    <th>Java</th>
+    <th>Ruby</th>
   </tr>
   <tr>
-    <td>Ceroooo1</td>
-    <td>Ceroooo</td>
-    <td>Ceroooo</td>
+    <td>Zeroooo1</td>
+    <td>Zeroooo</td>
+    <td>Zeroooo</td>
   </tr>
   <tr>
-    <td>Ceroooo</td>
-    <td>Ceroooo</td>
-    <td>Ceroooo</td>
+    <td>Zeroooo</td>
+    <td>Zeroooo</td>
+    <td>Zeroooo</td>
   </tr>
 </table>

@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     <th>CSS</th>
   </tr>
   <tr>
-    <td>Zeroooo1/td>
+    <td>Zeroooo</td>
     <td>Zeroooo</td>
     <td>Zeroooo</td>
     <td>Basic</td>

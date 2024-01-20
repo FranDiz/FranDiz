@@ -1,6 +1,6 @@
 # GitHub Profile of Web Development Student
 
-Hello! 👋 I'm FranDiz, a web development student
+Hello! 👋 I'm FranDiz, a creative web development student
 
 - 🎓 Student at IES Rafael Alberti
 - 💻 Specializing in full-stack web development.

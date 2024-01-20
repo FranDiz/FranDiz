@@ -10,36 +10,24 @@ Hello! 👋 I'm FranDiz, a web development student
 
 - **Programming Languages:** HTML, CSS, JavaScript, Python.
 - **Frameworks and Libraries:** React.js
-- **Databases:** MySQL.
+- **Databases:** Oracle Database, MySQL.
 - **Version Control Tools:** Git, GitHub.
 - **Agile Development:** Scrum methodologies.
 
 ## Featured Projects
 
-### [Project Name](project_link)
-Brief description of the project and technologies used.
+### PokeAPI[(PokeAPI)](https://github.com/FranDiz/PokeAPI)
+React.js web page using public API pokeapi.co
 
-### [Project Name 2](project_link_2)
-Another brief description and standout technologies.
+### API Juego de Palabras(project_link_2)
+SpringBoot API CRUD
 
-## Educational Experience
 
-### [Course or Certification Name](course_link)
-Brief description of the course and acquired skills.
-
-### [Academic Project Name](academic_project_link)
-Project description and contributions.
-
-## Open Source Contributions
-
-- [Open Source Project Name](open_source_project_link)
-Brief description and contributions made.
 
 ## Contact
 
 I'm always open to new opportunities and collaborations! You can find me on:
 
-- LinkedIn: [Your Name on LinkedIn](linkedin_link)
-- Email: [your@email.com](mailto:your@email.com)
+- LinkedIn: [Francisco Rodríguez Diz](https://www.linkedin.com/in/francisco-rodr%C3%ADguez-diz-047095278/)
+- Email: [Fran_Diz@outlook.com](Fran_Diz@outlook.com)
 
-Thanks for visiting my profile! I hope you find my projects and contributions interesting. Let's build amazing things together! 👨‍💻🚀

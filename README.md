@@ -1,37 +1,45 @@
-### Hi there 👋
+# GitHub Profile of Web Development Student
 
-<!--
-**FranDiz/FranDiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! 👋 I'm FranDiz, a web development student
 
-Here are some ideas to get you started:
+- 🎓 Student at IES Rafael Alberti
+- 💻 Specializing in full-stack web development.
+- 🚀 Constantly learning and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<table border=3>
-  <caption><b>My fields<b></caption>
-  <tr>
-    <th>C++</th>
-    <th>Java</th>
-    <th>Ruby</th>
-    <th>Python</th>
-    <th>Kotlin</th>
-    <th>HTML5</th>
-    <th>CSS</th>
-  </tr>
-  <tr>
-    <td>Zeroooo</td>
-    <td>Zeroooo</td>
-    <td>Zeroooo</td>
-    <td>Basic</td>
-    <td>Medium</td>
-    <td>Medium</td>
-    <td>Medium</td>
-   </tr>
-</table>
+## Skills
+
+- **Programming Languages:** HTML, CSS, JavaScript, Python.
+- **Frameworks and Libraries:** React.js
+- **Databases:** MySQL.
+- **Version Control Tools:** Git, GitHub.
+- **Agile Development:** Scrum methodologies.
+
+## Featured Projects
+
+### [Project Name](project_link)
+Brief description of the project and technologies used.
+
+### [Project Name 2](project_link_2)
+Another brief description and standout technologies.
+
+## Educational Experience
+
+### [Course or Certification Name](course_link)
+Brief description of the course and acquired skills.
+
+### [Academic Project Name](academic_project_link)
+Project description and contributions.
+
+## Open Source Contributions
+
+- [Open Source Project Name](open_source_project_link)
+Brief description and contributions made.
+
+## Contact
+
+I'm always open to new opportunities and collaborations! You can find me on:
+
+- LinkedIn: [Your Name on LinkedIn](linkedin_link)
+- Email: [your@email.com](mailto:your@email.com)
+
+Thanks for visiting my profile! I hope you find my projects and contributions interesting. Let's build amazing things together! 👨‍💻🚀
